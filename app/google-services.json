@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902884270787",
+    "project_id": "instaclomkotlin",
+    "storage_bucket": "instaclomkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902884270787:android:9dde463533e52a467db876",
+        "android_client_info": {
+          "package_name": "com.example.instaclonkotlinfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902884270787-c018933un6glkujdt7pg79bmf8iuea2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqwyzL5dic3qVKm_yRPXCtwm607o1dweU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902884270787-c018933un6glkujdt7pg79bmf8iuea2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
